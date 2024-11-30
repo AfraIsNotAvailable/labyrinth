@@ -1,0 +1,7 @@
+# ninja log v6
+9	119	7546771946984769	CMakeFiles/labyrinth.dir/search.cpp.obj	e075190464fcd275
+3	1158	7546771946924779	CMakeFiles/labyrinth.dir/main.cpp.obj	608ac8e93801159a
+14	1312	7546771947034775	CMakeFiles/labyrinth.dir/labyrinth.cpp.obj	843a01edc4d08d0
+1312	1482	7546771960014795	labyrinth.exe	f1dedfc7ca59f0a1
+9	960	7546772443123451	CMakeFiles/labyrinth.dir/main.cpp.obj	608ac8e93801159a
+961	1124	7546772452633098	labyrinth.exe	f1dedfc7ca59f0a1
